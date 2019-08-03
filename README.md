@@ -4,4 +4,3 @@
 
 ## Informações
   * Os arquivos *.py3 devem ser executados com python3.
-  * O arquivo muro.py3 foi modificado após a prova, pois estava incorreto.
